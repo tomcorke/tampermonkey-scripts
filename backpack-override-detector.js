@@ -7,6 +7,7 @@
 // @match        http://localhost:5000/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=undefined.localhost
 // @grant        none
+// @source       https://raw.githubusercontent.com/tomcorke/tampermonkey-scripts/main/backpack-override-detector.js
 // ==/UserScript==
 
 (function () {
